@@ -1,0 +1,25 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+#firstcontainer
+{
+	background:url('background3.png') no-repeat;
+	background-size: 200%;
+	background-position: center;
+	height: 400px;
+	padding: 140px 100px;
+	color: white;
+	text-align: center;
+
+}
+#h2
+{
+
+    font-size: 5em;
+}
+.BodyContent
+{
+	text-align: center;
+}
