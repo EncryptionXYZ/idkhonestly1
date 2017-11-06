@@ -12,14 +12,46 @@ body
 	padding: 140px 100px;
 	color: white;
 	text-align: center;
+	font-family: 'Indie Flower', cursive;
 
 }
 #h2
 {
-
+font-family: 'Indie Flower', cursive;
     font-size: 5em;
 }
 .BodyContent
 {
+	padding-top: 20px;
 	text-align: center;
+}
+.icons
+{
+
+	padding-right: 900px;
+	text-align: center;
+	display: inline;
+}
+.p1
+{
+	font-family:  'Saira Semi Condensed', sans-serif;
+	font-size: 30px;
+	padding-right: 100px;
+	padding-top: -300px;
+}
+
+}
+
+.p2
+{
+	font-family:  'Saira Semi Condensed', sans-serif;
+	font-size: 30px;
+	padding-left: 700px;
+	padding-top: 175px;
+}
+.p5
+{
+	font-family:  'Saira Semi Condensed', sans-serif;
+	font-size: 30px;
+	padding-right: 175px;	
 }
